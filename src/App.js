@@ -1,4 +1,4 @@
-const { default: Expenses } = require("./components/Expenses");
+const { default: Expenses } = require("./components/Expenses/Expenses");
 
 function App() {
   const expenses = [
